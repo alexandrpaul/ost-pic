@@ -1,5 +1,5 @@
 ### 1. Configure User Roles
-Navigate to **Admin Panel** → **Agents** → **Roles**. Enter the desired role name (for this example: **Principal Admin**) and select **Add Role** to apply.
+Navigate to **Admin Panel** → **Agents** → **Roles**. Enter the desired role name (*for this example: Principal Admin*) and select **Add Role** to apply.
 
 ![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img1.png)
 

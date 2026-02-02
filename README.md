@@ -4,7 +4,7 @@
 
 # osTicket - Post-Install Configuration
 
-This project demonstrates hands-on experience configuring a helpdesk environment on Windows 10 (21H2) with Internet Information Services (IIS). It covers role-based access control, department and team setup, agent and user account management, SLA configuration, and helpdesk system customization. The work reflects practical enterprise IT responsibilities, including secure account administration, workflow optimization, and the delivery of structured, efficient support across an organization.
+This project demonstrates hands-on experience configuring a comprehensive helpdesk environment. It covers role-based access control, department and team setup, agent and user account management, SLA configuration, and helpdesk system customization. The work reflects practical enterprise IT responsibilities, including secure account administration, workflow optimization, and the delivery of structured, efficient support across an organization.
 
 ## Environments and Technologies Used
 

@@ -37,3 +37,20 @@ Navigate to **Admin Panel** → **Agents** → **Add New**. Enter the desired ag
 
 ### 6. Configure Users in Agent Panel
 Navigate to **Agent Panel** → **Users** → **Add New** . Enter the desired user information (*for this instance, Michael Townley*) and select Add User to complete the configuration.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img6.png)
+
+
+
+### 7. Configure Service Level Agreement (SLA)
+Access the **Admin Panel** → **Manage** → **SLA**. Define the desired SLA parameters. For this example, **SEV-B** is set with a **1-hour response** during **Business Hours: Monday – Friday, 8am – 5pm**. Click **Add Plan** to apply.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img7.png)
+
+
+
+### 8. Configure Help Topics
+Navigate to **Admin Panel** → **Manage** → **Help Topics**.
+Enter the desired topic name (*for this instance, Password Reset*) and select **Add Topic** to complete the configuration.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img8.png)

@@ -1,3 +1,29 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+# osTicket - Post-Install Configuration
+
+This project demonstrates hands-on experience configuring a helpdesk environment on Windows 10 (21H2) with Internet Information Services (IIS). It covers role-based access control, department and team setup, agent and user account management, SLA configuration, and helpdesk system customization. The work reflects practical enterprise IT responsibilities, including secure account administration, workflow optimization, and the delivery of structured, efficient support across an organization.
+
+## Environments and Technologies Used
+
+- **Windows 10 (21H2)**
+- **Internet Information Services (IIS)**
+
+
+## Skills Demonstrated
+
+- Role-Based Access Control (RBAC) Configuration
+- Department & Team Management
+- User & Agent Account Administration
+- Service Level Agreement (SLA) Management
+- Helpdesk System Customization
+- System Administration & Configuration
+
+
+## Tasks for this project
+
 ### 1. Configure User Roles
 Navigate to **Admin Panel** → **Agents** → **Roles**. Enter the desired role name (*for this example: Principal Admin*) and select **Add Role** to apply.
 
@@ -54,3 +80,9 @@ Navigate to **Admin Panel** → **Manage** → **Help Topics**.
 Enter the desired topic name (*for this instance, Password Reset*) and select **Add Topic** to complete the configuration.
 
 ![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img8.png)
+
+
+
+<h2> Final Thoughts </h2>
+
+<p> Completing these tasks provided practical experience managing a helpdesk environment on Windows 10 (21H2) with IIS, covering the full spectrum of enterprise IT responsibilities. Configuring role-based access, structuring departments and teams, and managing agent and user accounts reinforced hands-on skills in secure administration and operational workflow. Setting up SLAs and customizing helpdesk functionalities demonstrated the ability to maintain service accountability while optimizing support efficiency. This work sharpened both technical execution and organizational awareness, providing a strong foundation for delivering reliable, professional IT support within an enterprise environment. </p>

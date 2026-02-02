@@ -14,7 +14,7 @@ Navigate to **Admin Panel** → **Agents** → **Departments**. Define the depar
 
 ### 3. Configure Teams in Admin Panel
 Navigate to **Admin Panel** → **Agents** → **Teams** and define the desired team name.
-For this configuration, **Level III** Support was used as the example.
+For this configuration, **Level III Support** was used as the example.
 Select **Create Team** to finalize the setup.
 
 ![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img3.png)

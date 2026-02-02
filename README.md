@@ -1,2 +1,39 @@
 ### 1. Configure User Roles
 Navigate to **Admin Panel** → **Agents** → **Roles**. Enter the desired role name (for this example: **Principal Admin**) and select **Add Role** to apply.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img1.png)
+
+
+
+### 2. Configure Departments
+Navigate to **Admin Panel** → **Agents** → **Departments**. Define the department name as required (*for this instance, System Administrators*) then select **Add Department** to finalize the entry.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img2.png)
+
+
+
+### 3. Configure Teams in Admin Panel
+Navigate to **Admin Panel** → **Agents** → **Teams** and define the desired team name.
+For this configuration, **Level III** Support was used as the example.
+Select **Create Team** to finalize the setup.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img3.png)
+
+
+
+### 4. Enable Public Ticket Creation
+Navigate to **Admin Panel** → **Settings** → **User Settings** and ensure **“Registration Required: Require registration and login to create tickets”** is **unchecked** to allow ticket submission without user registration.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img4.png)
+
+
+
+### 5. Configure New Agents
+Navigate to **Admin Panel** → **Agents** → **Add New**. Enter the desired agent details (*for this instance, Pablo Maneho*) and select **Add Agent** to complete the setup.
+
+![Screenshot](https://github.com/alexandrpaul/ost-pic/blob/5fb5bf3384a47e02eec102696b33a347abbdc3bb/Screenshots/img5.png)
+
+
+
+### 6. Configure Users in Agent Panel
+Navigate to **Agent Panel** → **Users** → **Add New** . Enter the desired user information (*for this instance, Michael Townley*) and select Add User to complete the configuration.
